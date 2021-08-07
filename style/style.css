@@ -1,0 +1,19 @@
+body{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:white;
+}
+ul li{
+    list-style: none;
+}
+
+.tamanho-dificuldade{
+    width: 200px !important;
+    text-align: center !important;
+}
+header .icone img{
+    width: 50px !important;
+}
